@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
            Text("What is Football to You?")
-                .font(.largeTitle)
+                .font(.title)
                 .fontWeight(.regular)
                 .foregroundStyle(.green)
             
